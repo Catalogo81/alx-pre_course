@@ -1,1 +1,1 @@
-Something in the file
+I have changed the content in this file
